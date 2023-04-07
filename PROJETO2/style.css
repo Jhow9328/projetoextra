@@ -1,19 +1,17 @@
 *{
-  margin: 0;
   padding: 0;
+  margin: 0;
   box-sizing: border-box;
 }
 body{
   text-align: center;
   font-family: 'Open Sans', sans-serif;
-
 }
 
 #page{
   width: 592px;
   margin:  64px auto 32px auto;
   position: center;
-
   
 }
 h1{
@@ -39,26 +37,29 @@ p{
   color: #828282;
 }
 .p2{
+  margin: 32px 0 50px;
   margin-bottom: 50px;
 }
 .line{
   width: 391px;
   border: 1px solid #ECEFF2;
-  margin:  0 auto 35px;
+  margin:  34px auto 35px;
 
 }
 a{
   padding-top: 32px;
   font-weight: bold;
   text-decoration: none;
-  padding-bottom: 50px;
+  padding-bottom: 40.83px;
 }
 a + a {
   margin-left: 42px;
 }
 .wave{
-  width: 100vw;
-  height: 100px;
-  bottom: 0vw;
-  right: 0vw;
+  width: 105vw;
+  height: 15vh;
+  bottom: 0;
+  right: 0;
+  margin-bottom: -104px;
+  padding: auto;
 }
